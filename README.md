@@ -17,13 +17,14 @@ As of 2023, Thursday February 16th, there is not a single car on the market that
 
 ## Guidelines
 
-The software design of the car MUST follow the [`GNU Philosophy`](https://www.gnu.org/philosophy/philosophy.html) there cannot be a single bit and/or byte of proprietary software in the cars system.
+- The software design of the car MUST follow the [`GNU Philosophy`](https://www.gnu.org/philosophy/philosophy.html) there cannot be a single bit and/or byte of proprietary software in the cars system.
+- The car must be licensed under one or more of the following licenses: GPL2, GPL3, LGPL2, LGPL3, AGPL2, or AGPL3. No other licenses are permitted.
 
 ## Candidate systems
 
 Operating system candidates include:
 
-- Trisquel Linux
+- [Trisquel Linux](https://trisquel.info/) (A certified GNU/Linux operating system)
 - Other (list one here)
 
 ## Other
@@ -32,15 +33,33 @@ Operating system candidates include:
 
 The following names were rejected:
 
-- GNU Mobile - Sounds like a mobile operating system project, rather than an automobile
-- No other rejected names
+- **GNU Mobile** - Reason: Sounds like a mobile operating system project, rather than an automobile system project.
+- **No other rejected names**
 
 ### Logo
 
 This project does not yet have a logo. The community can decide on one when needed.
 
+### Development
+
+I cannot personally develop the car myself, I have a rule where I can't develop my own automobile software, as I already have too many projects I am working on, and I left this open for others. I can still contribute to existing automobile software, however.
+
+### Hardware
+
+The hardware this software will run on is still a major decision that needs to be made. Flashing an existing car may not be feasible, and producing new hardware may prove to be difficult.
+
+### Competitors
+
+A non-exhaustive list of competitors to this project.
+
+- Google LLC§Android Auto
+- Tesla Inc.
+- Other/unlisted
+
+> **Note** None of the listed competitors are producing GNU systems in their vehicles.
+
 ***
 
-**File version:** `1 (2023, Thursday, February 16th at 2:30 pm PST)`
+**File version:** `2 (2023, Thursday, February 16th at 2:56 pm PST)`
 
 ***

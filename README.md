@@ -7,6 +7,10 @@
 
 | <img alt="GNU Car banner failed to load. Click/tap here to attempt to view it" src="/GNU_Car_1080pWallpaper_V1_HighCompression.png" width="853" height="480"/> |
 |---|
+| **About:** Nobody really puts that much effort into logos anymore, so even though this is a minimal design, it isn't too minimal compared to most logos. |
+| The GNU head is centered on the steering wheel |
+| I put some ice gradient on the GNU text, I didn't know what else to put. |
+| The texture for the word `car` is a fabric texture. I didn't realize this until after I created the image, but the fabric evokes the feeling of an older vacation car, a tropical vibe. I am not too experienced with automobile history, so if someone can help me pinpoint the decade(s) of this trend, that would be nice. |
 
 **Legal disclaimer:** As it currently stands, this project is not endorsed by, or affiliated with the GNU project or the Free Software Foundation, but I would really like it to be, and I will donate this project to them upon their request, provided they can care for and advance the project and eventually achieve the goal.
 
@@ -14,7 +18,7 @@
 
 All current electric cars are powered by non-free software. I want a car that does not have any Google, Apple, Tesla, or other proprietary bits in it. I want a completely GNU car, made up entirely of free, libre, and open source software. This is the biggest barrier for why I can't start driving yet.
 
-As of 2023, Thursday February 16th, there is not a single car on the market that meets this goal.
+As of 2023, Saturday, February 18th, there is not a single car on the market that meets this goal.
 
 ## Guidelines
 
@@ -57,11 +61,23 @@ Currently, yes, there are some cars with operating systems based on Linux. Howev
 
 **Isn't Android open source?**
 
-Android is a freemium operating system that has a variant known as Android auto that runs on cars. Android is based on Linux, but has become proprietary software with strict trademark and usage rules that make it freemium. Remember that Freemium isn't free.
+Android is a freemium operating system that has a variant known as Android auto that runs on cars. Android is based on Linux, but has become proprietary software with strict trademark and usage rules that make it freemium, including major proprietary bits like GMS (Google Mobile Services) and Google Play. Remember that Freemium isn't free.
 
 **GNU/Linux usage**
 
 Most people refer to Linux as just Linux. I am using GNU/Linux here to differentiate it from Linux with proprietary bits (Android, TeslaOS, ChromeOS, ChromiumOS, etc.) The GNU is an assertion that the software follows the Free Software Foundations vision of truly free software.
+
+## Pros
+
+> **Note** This list is incomplete.
+
+- More transparency on the inner working of the car
+- Encourages the right to repair
+- Promotes both free and open source software
+
+## Cons
+
+- No known cons to list
 
 ## Other
 
@@ -112,9 +128,9 @@ This idea has been in development for over a year. I finally published it on 202
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `3 (2023, Thursday, February 16th at 5:44 pm PST)`
+**File version:** `4 (2023, Saturday, February 18th at 3:14 pm PST)`
 
-**Line count (including blank lines and compiler line):** `210`
+**Line count (including blank lines and compiler line):** `247`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -195,6 +211,27 @@ This idea has been in development for over a year. I finally published it on 202
 - - [x] Added an entry for version 3
 - [x] Added the footer 
 - [ ] No other changes in version 3
+
+</details>
+
+<details><summary><p><b>Version 4 (2023, Saturday, February 18th at 3:14 pm PST)</b></p></summary>
+
+- This release was made by: [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes
+
+- [x] Added a description about the logo
+- [x] Updated the `Reasoning` section
+- [x] Updated the `Common confusion` section
+- [x] Added the `Pros` section
+- [x] Added the `Cons` section
+- [x] Updated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 4
+- [ ] No other changes in version 4
 
 </details>
 
